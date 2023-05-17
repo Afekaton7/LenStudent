@@ -2,6 +2,7 @@
   <img width="407" alt="LenStudent" src="https://github.com/Afekaton7/LenStudent/assets/87901270/45706201-21eb-4002-9ae5-f8e6962c86f8">
 </p>
 
+
 LenStudent is an application designed to enhance the learning experience by providing students with a clear and distraction-free way to view the information displayed on the board during lectures.
 By utilizing image recognition technology and capturing images of the board, LenStudent eliminates the need for students to take their own pictures,
 allowing them to fully engage in the lecture while saving valuable time and keeping the privacy of the lecturers
@@ -29,13 +30,13 @@ The intuitive user interface and easy access to the most up-to-date board image 
 - Users can access the mobile app at any time by clicking on the app icon.
 - Provides the option to download the latest image of the board to the user's device for offline access or further review.
 
-## Install
+## Installation
 1. Download the LenStudent Backend (Python code) on your computer.
 2. Connect an external camera to your computer.
 3. Open and run "image_process.py", LenStudent will automatically detect the board and start capturing images at regular intervals.
 4. Download and install the android application with the apk provided
 5. Open the LenStudent mobile application and grant any required permissions.
-7. Insert in the input the class number
-8. Access the most recent image of the board captured by the computer application within the LenStudent mobile app's floating window.
-9. Tap on the LenStudent mobile app icon to open the floating window and view the most new board image at any time
-10. Optionally, download the latest board image to your mobile device for offline access or further review.
+6. Insert in the input the class number
+7. Access the most recent image of the board captured by the computer application within the LenStudent mobile app's floating window.
+8. Tap on the LenStudent mobile app icon to open the floating window and view the most new board image at any time
+9. Optionally, download the latest board image to your mobile device for offline access or further review.
